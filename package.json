@@ -1,0 +1,20 @@
+{
+  "name": "terrarium-stats",
+  "version": "1.0.0",
+  "description": "A website that displays all the statistics of my terrarium!",
+  "homepage": "https://github.com/OccultParrot/Terrarium-Stats#readme",
+  "bugs": {
+    "url": "https://github.com/OccultParrot/Terrarium-Stats/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OccultParrot/Terrarium-Stats.git"
+  },
+  "license": "MIT",
+  "author": "Thomas Stemler & Joey Vedder",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
