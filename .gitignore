@@ -131,3 +131,6 @@ dist
 
 # Get rid of dat inteliJ stuff
 .idea
+
+# So that virtual environment stuff for the server is not saved on repository
+server/.venv
